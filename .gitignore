@@ -4,3 +4,5 @@ node_modules/
 target/
 .elixir_ls/
 .env*
+*.db
+*.session*
