@@ -1,0 +1,6 @@
+_build/
+deps/
+node_modules/
+target/
+.elixir_ls/
+.env*
